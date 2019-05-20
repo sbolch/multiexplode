@@ -18,7 +18,7 @@ of the Composer documentation.
 ## Usage
 
 ```php
-$results = multiexplode(['/', '://', ':', '?', '#', ':'], 'http://url.com/example:80?query#hash');
+$results = multiexplode(array('/', '://', ':', '?', '#', ':'), 'http://url.com/example:80?query#hash');
 ```
 
 returns:
