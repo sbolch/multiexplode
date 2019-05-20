@@ -1,0 +1,21 @@
+{
+    "name": "subbysnake/multiexplode",
+    "description": "Splits a string (like explode function) by multiple limiters.",
+    "keywords": ["php", "explode", "multiple"],
+    "type": "package",
+    "license": "MIT",
+    "homepage": "https://github.com/subbysnake/multiexplode",
+    "authors": [
+        {
+            "name": "Szabolcs Surányi",
+            "email": "szabolcs.suranyi@shadesoft.hu",
+            "homepage": "http://shadesoft.hu"
+        }
+    ],
+    "autoload": {
+        "files": ["multiexplode.php"]
+    },
+    "require": {
+        "php": ">=5.3"
+    }
+}
