@@ -1,10 +1,10 @@
 {
-    "name": "subbysnake/multiexplode",
+    "name": "d3vy/multiexplode",
     "description": "Splits a string (like explode function) by multiple limiters.",
     "keywords": ["php", "explode", "multiple"],
     "type": "package",
     "license": "MIT",
-    "homepage": "https://github.com/subbysnake/multiexplode",
+    "homepage": "https://github.com/d3vy/multiexplode",
     "authors": [
         {
             "name": "Szabolcs Surányi",
