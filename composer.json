@@ -1,15 +1,15 @@
 {
-    "name": "d3vy/multiexplode",
+    "name": "sbolch/multiexplode",
     "description": "Splits a string (like explode function) by multiple limiters.",
     "keywords": ["php", "explode", "multiple"],
     "type": "package",
     "license": "MIT",
-    "homepage": "https://github.com/d3vy/multiexplode",
+    "homepage": "https://github.com/sbolch/multiexplode",
     "authors": [
         {
             "name": "Szabolcs Surányi",
             "email": "szabolcs.suranyi@shadesoft.hu",
-            "homepage": "http://shadesoft.hu"
+            "homepage": "https://shadesoft.dev"
         }
     ],
     "autoload": {
